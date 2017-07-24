@@ -18,7 +18,6 @@
 #define retorno return
 #define selecao switch
 
-
 /*Tipo de dados*/
 #define vazio void
 #define caracter char
@@ -31,7 +30,6 @@
 #define positivo unsigned
 #define nao_muda static
 #define estrutura struct
-
 
 /*Funcoes do C -------------------------------------*/
 
